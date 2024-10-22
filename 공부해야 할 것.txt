@@ -1,0 +1,10 @@
+html
+css
+백엔드 + db
+
+프론트엔드랑 백엔드에 뭘 쓰는지.
+https://blog.naver.com/bopomo_/222998115433
+
+
+서버 개념
+https://search.naver.com/p/crd/rd?m=1&px=531&py=948&sx=531&sy=273&p=idq4alp0J1sssOBVNylssssssA4-315386&q=db%EC%84%9C%EB%B2%84+%EC%9B%B9%EC%84%9C%EB%B2%84&ie=utf8&rev=1&ssc=tab.nx.all&f=nexearch&w=nexearch&s=a2%2Bd6ZHa8z3QLC6KMF0tdGfW&time=1695189163840&abt=%5B%7B%22eid%22%3A%22SBR1%22%2C%22vid%22%3A%221402%22%7D%5D&a=rvw*b.link&r=1&i=90000003_0000000000000033EA29FA36&u=https%3A%2F%2Fblog.naver.com%2Ftae6s%2F222971951670&cr=2

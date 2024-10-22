@@ -1,0 +1,29 @@
+웹사이트 내놓기
+https://kimsfamily.kr/274
+
+박스만들기
+https://imliz99.tistory.com/entry/%EC%BD%94%EB%93%9C%EB%9D%BC%EC%9D%B4%EC%96%B8-HTMLCSS-%EB%B0%95%EC%8A%A4-%EC%AA%BC%EA%B0%9C%EA%B8%B0-padding-border-margin
+
+mysql 데이터베이스 (도서 추가, 조회 예시)
+https://soopeach.tistory.com/121
+
+
+
+form 정보 입력 받기, label, type, 드롭/체크박스 등
+https://blog.naver.com/mangocomputer/223087784848
+
+로그인 창 만들기 (자바스크립트 포함)
+https://blog.naver.com/didwld123/222784171035
+
+로컬스토리지를 활용한 로그인, 회원가입
+https://stickode.tistory.com/701
+
+
+웹스토리지
+https://blog.naver.com/eom-ahye/223194299366
+
+jsp, sql, servlet/spring 다있음
+https://blog.naver.com/wlmail/223129454813
+
+jsp? 응용 정보 저장
+https://blog.naver.com/wlmail/223129454813
